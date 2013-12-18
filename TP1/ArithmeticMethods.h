@@ -1,5 +1,6 @@
 bool IsOdd(int);
 
+//this is a comment
 bool IsPrime(unsigned int);
 
 int Factorial(unsigned int);
